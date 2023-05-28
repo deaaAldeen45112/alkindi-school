@@ -6,3 +6,9 @@ I used the three-tier layer, which is divided into the first layer is Database ,
 I used rest api architectural style.
 # Technology
 I used mysql language to Database ,php to Business Logic , and js to Presentation .
+# Viedo
+
+
+
+https://github.com/deaaAldeen45112/alkindi-school/assets/99683685/55ad9ead-76c9-480f-8466-38acaa9c6690
+
